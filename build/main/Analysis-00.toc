@@ -1,0 +1,4141 @@
+(['E:\\python work place\\projectNew\\main.py'],
+ ['E:\\python work place\\projectNew'],
+ ['codecs'],
+ ['C:\\Users\\CNN '
+  'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\numpy\\_pyinstaller',
+  'c:\\users\\cnn '
+  'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\cnn '
+  'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\cnn '
+  'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\cnn '
+  'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\cnn '
+  'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ [],
+ [],
+ '3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\CNN '
+   'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\CNN '
+   'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\CNN '
+   'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\CNN '
+   'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\CNN '
+   'COMPUTERS\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('main', 'E:\\python work place\\projectNew\\main.py', 'PYSOURCE')],
+ [('pkg_resources',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\imp.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.py33compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\py33compat.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\cgi.py',
+   'PYMODULE'),
+  ('setuptools.distutils_patch',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools\\distutils_patch.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('firebase_admin.storage',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\storage.py',
+   'PYMODULE'),
+  ('firebase_admin._utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\_utils.py',
+   'PYMODULE'),
+  ('firebase_admin.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\exceptions.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.weakref_finalize',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\backports\\weakref_finalize.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('google.auth',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\__init__.py',
+   'PYMODULE'),
+  ('google.auth._default',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\_default.py',
+   'PYMODULE'),
+  ('google.oauth2.gdch_credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\gdch_credentials.py',
+   'PYMODULE'),
+  ('google.oauth2._client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\_client.py',
+   'PYMODULE'),
+  ('google.auth.transport',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.transport._custom_tls_signer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\_custom_tls_signer.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('google.oauth2.service_account',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\service_account.py',
+   'PYMODULE'),
+  ('google.oauth2.credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\credentials.py',
+   'PYMODULE'),
+  ('google.oauth2.reauth',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\reauth.py',
+   'PYMODULE'),
+  ('google.oauth2.challenges',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\challenges.py',
+   'PYMODULE'),
+  ('google.oauth2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\__init__.py',
+   'PYMODULE'),
+  ('google.oauth2.sts',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\sts.py',
+   'PYMODULE'),
+  ('google.oauth2.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\oauth2\\utils.py',
+   'PYMODULE'),
+  ('google.auth.transport.requests',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\requests.py',
+   'PYMODULE'),
+  ('google.auth.transport._mtls_helper',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\_mtls_helper.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine._metadata',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\compute_engine\\_metadata.py',
+   'PYMODULE'),
+  ('google.auth.app_engine',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\app_engine.py',
+   'PYMODULE'),
+  ('google.auth.credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\credentials.py',
+   'PYMODULE'),
+  ('google.auth.transport._http_client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\_http_client.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('google.auth.api_key',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\api_key.py',
+   'PYMODULE'),
+  ('google.auth.external_account_authorized_user',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\external_account_authorized_user.py',
+   'PYMODULE'),
+  ('google.auth.identity_pool',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\identity_pool.py',
+   'PYMODULE'),
+  ('google.auth.pluggable',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\pluggable.py',
+   'PYMODULE'),
+  ('google.auth.aws',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\aws.py',
+   'PYMODULE'),
+  ('google.auth.external_account',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\external_account.py',
+   'PYMODULE'),
+  ('google.auth.impersonated_credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\impersonated_credentials.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\compute_engine\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine.credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\compute_engine\\credentials.py',
+   'PYMODULE'),
+  ('google.auth._exponential_backoff',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\_exponential_backoff.py',
+   'PYMODULE'),
+  ('google.auth.jwt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\jwt.py',
+   'PYMODULE'),
+  ('google.auth.crypt.es256',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\es256.py',
+   'PYMODULE'),
+  ('google.auth.crypt.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\base.py',
+   'PYMODULE'),
+  ('cachetools',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cachetools\\__init__.py',
+   'PYMODULE'),
+  ('cachetools.keys',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cachetools\\keys.py',
+   'PYMODULE'),
+  ('google.auth._service_account_info',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\_service_account_info.py',
+   'PYMODULE'),
+  ('google.auth.iam',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\iam.py',
+   'PYMODULE'),
+  ('google.auth.crypt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.crypt.rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\rsa.py',
+   'PYMODULE'),
+  ('google.auth.crypt._python_rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\_python_rsa.py',
+   'PYMODULE'),
+  ('rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('rsa.pkcs1',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\pkcs1.py',
+   'PYMODULE'),
+  ('rsa.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\core.py',
+   'PYMODULE'),
+  ('rsa.common',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\common.py',
+   'PYMODULE'),
+  ('rsa.key',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\key.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedtype',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\namedtype.py',
+   'PYMODULE'),
+  ('pyasn1.type.tagmap',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\tagmap.py',
+   'PYMODULE'),
+  ('pyasn1.type.tag',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\tag.py',
+   'PYMODULE'),
+  ('pyasn1.error',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\error.py',
+   'PYMODULE'),
+  ('pyasn1',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.debug',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\debug.py',
+   'PYMODULE'),
+  ('pyasn1.compat.octets',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\compat\\octets.py',
+   'PYMODULE'),
+  ('pyasn1.compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.compat.integer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\compat\\integer.py',
+   'PYMODULE'),
+  ('pyasn1.type.univ',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\univ.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedval',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\namedval.py',
+   'PYMODULE'),
+  ('pyasn1.type.constraint',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\constraint.py',
+   'PYMODULE'),
+  ('pyasn1.type.error',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\error.py',
+   'PYMODULE'),
+  ('pyasn1.type.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\base.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.eoo',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\ber\\eoo.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.encoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\ber\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.type.useful',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\useful.py',
+   'PYMODULE'),
+  ('pyasn1.type.char',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\char.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.decoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\ber\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.streaming',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\streaming.py',
+   'PYMODULE'),
+  ('pyasn1.codec',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type.opentype',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\type\\opentype.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.encoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\der\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.encoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\cer\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\cer\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.decoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\cer\\decoder.py',
+   'PYMODULE'),
+  ('rsa.asn1',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\asn1.py',
+   'PYMODULE'),
+  ('rsa.randnum',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\randnum.py',
+   'PYMODULE'),
+  ('rsa.pem',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\pem.py',
+   'PYMODULE'),
+  ('rsa.prime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\prime.py',
+   'PYMODULE'),
+  ('rsa.parallel',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\parallel.py',
+   'PYMODULE'),
+  ('rsa.transform',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rsa\\transform.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc5208',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1_modules\\rfc5208.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2251',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1_modules\\rfc2251.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2459',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1_modules\\rfc2459.py',
+   'PYMODULE'),
+  ('pyasn1_modules.pem',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1_modules\\pem.py',
+   'PYMODULE'),
+  ('pyasn1_modules',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1_modules\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.decoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\der\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyasn1\\codec\\der\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.crypt._cryptography_rsa',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\crypt\\_cryptography_rsa.py',
+   'PYMODULE'),
+  ('google.auth.metrics',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\metrics.py',
+   'PYMODULE'),
+  ('google.auth._cloud_sdk',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\_cloud_sdk.py',
+   'PYMODULE'),
+  ('google.auth._helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\_helpers.py',
+   'PYMODULE'),
+  ('google.auth.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\exceptions.py',
+   'PYMODULE'),
+  ('google.auth.environment_vars',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\environment_vars.py',
+   'PYMODULE'),
+  ('google.auth.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\version.py',
+   'PYMODULE'),
+  ('google', '-', 'PYMODULE'),
+  ('google.resumable_media',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\__init__.py',
+   'PYMODULE'),
+  ('google.resumable_media._upload',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\_upload.py',
+   'PYMODULE'),
+  ('google.resumable_media._download',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\_download.py',
+   'PYMODULE'),
+  ('google.resumable_media._helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\_helpers.py',
+   'PYMODULE'),
+  ('google_crc32c',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\__init__.py',
+   'PYMODULE'),
+  ('google_crc32c.python',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\python.py',
+   'PYMODULE'),
+  ('google_crc32c._checksum',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\_checksum.py',
+   'PYMODULE'),
+  ('google_crc32c.cext',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\cext.py',
+   'PYMODULE'),
+  ('google_crc32c.__config__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\__config__.py',
+   'PYMODULE'),
+  ('google.resumable_media.common',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\common.py',
+   'PYMODULE'),
+  ('google.cloud.storage',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.storage.client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\client.py',
+   'PYMODULE'),
+  ('google.cloud.storage.retry',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\retry.py',
+   'PYMODULE'),
+  ('google.api_core.retry',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\retry.py',
+   'PYMODULE'),
+  ('google.api_core.datetime_helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\datetime_helpers.py',
+   'PYMODULE'),
+  ('google.protobuf.timestamp_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\timestamp_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.builder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\builder.py',
+   'PYMODULE'),
+  ('google.protobuf.service_reflection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\service_reflection.py',
+   'PYMODULE'),
+  ('google.protobuf.service',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\service.py',
+   'PYMODULE'),
+  ('google.protobuf.reflection',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\reflection.py',
+   'PYMODULE'),
+  ('google.protobuf.message_factory',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\message_factory.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext.cpp_message',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\pyext\\cpp_message.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\pyext\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.api_implementation',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\api_implementation.py',
+   'PYMODULE'),
+  ('google._upb', '-', 'PYMODULE'),
+  ('google.protobuf.message',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\message.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.python_message',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\python_message.py',
+   'PYMODULE'),
+  ('google.protobuf.text_format',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\text_format.py',
+   'PYMODULE'),
+  ('google.protobuf.unknown_fields',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\unknown_fields.py',
+   'PYMODULE'),
+  ('google.protobuf.text_encoding',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\text_encoding.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.wire_format',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\wire_format.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.well_known_types',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\well_known_types.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.field_mask',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\field_mask.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.type_checkers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\type_checkers.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.message_listener',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\message_listener.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.extension_dict',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\extension_dict.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.encoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\encoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.decoder',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\decoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.containers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\containers.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.enum_type_wrapper',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\enum_type_wrapper.py',
+   'PYMODULE'),
+  ('google.protobuf.internal',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\internal\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.symbol_database',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\symbol_database.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pool',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\descriptor_pool.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\descriptor_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_database',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\descriptor_database.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\descriptor.py',
+   'PYMODULE'),
+  ('google.protobuf',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.any_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\any_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.duration_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\protobuf\\duration_pb2.py',
+   'PYMODULE'),
+  ('google.api_core.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\exceptions.py',
+   'PYMODULE'),
+  ('grpc_status.rpc_status',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc_status\\rpc_status.py',
+   'PYMODULE'),
+  ('grpc_status._async',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc_status\\_async.py',
+   'PYMODULE'),
+  ('grpc.experimental.aio',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\experimental\\aio\\__init__.py',
+   'PYMODULE'),
+  ('grpc.aio',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\__init__.py',
+   'PYMODULE'),
+  ('grpc.aio._typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_typing.py',
+   'PYMODULE'),
+  ('grpc.aio._server',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_server.py',
+   'PYMODULE'),
+  ('grpc._cython',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_cython\\__init__.py',
+   'PYMODULE'),
+  ('grpc._compression',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_compression.py',
+   'PYMODULE'),
+  ('grpc._typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_typing.py',
+   'PYMODULE'),
+  ('grpc._server',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_server.py',
+   'PYMODULE'),
+  ('grpc._interceptor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_interceptor.py',
+   'PYMODULE'),
+  ('grpc._common',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_common.py',
+   'PYMODULE'),
+  ('grpc.aio._metadata',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_metadata.py',
+   'PYMODULE'),
+  ('grpc.aio._interceptor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_interceptor.py',
+   'PYMODULE'),
+  ('grpc.aio._utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_utils.py',
+   'PYMODULE'),
+  ('grpc.aio._channel',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_channel.py',
+   'PYMODULE'),
+  ('grpc._grpcio_metadata',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_grpcio_metadata.py',
+   'PYMODULE'),
+  ('grpc.aio._call',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_call.py',
+   'PYMODULE'),
+  ('grpc.aio._base_server',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_base_server.py',
+   'PYMODULE'),
+  ('grpc.aio._base_channel',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_base_channel.py',
+   'PYMODULE'),
+  ('grpc.aio._base_call',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\aio\\_base_call.py',
+   'PYMODULE'),
+  ('grpc.experimental',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\experimental\\__init__.py',
+   'PYMODULE'),
+  ('grpc._simple_stubs',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_simple_stubs.py',
+   'PYMODULE'),
+  ('grpc_status._common',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc_status\\_common.py',
+   'PYMODULE'),
+  ('google.rpc.status_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\rpc\\status_pb2.py',
+   'PYMODULE'),
+  ('grpc_status',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc_status\\__init__.py',
+   'PYMODULE'),
+  ('grpc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\__init__.py',
+   'PYMODULE'),
+  ('grpc._channel',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_channel.py',
+   'PYMODULE'),
+  ('grpc._auth',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_auth.py',
+   'PYMODULE'),
+  ('grpc._plugin_wrapping',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_plugin_wrapping.py',
+   'PYMODULE'),
+  ('grpc._utilities',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_utilities.py',
+   'PYMODULE'),
+  ('grpc._runtime_protos',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_runtime_protos.py',
+   'PYMODULE'),
+  ('google.rpc.error_details_pb2',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\rpc\\error_details_pb2.py',
+   'PYMODULE'),
+  ('google.rpc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\rpc\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.storage.constants',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\constants.py',
+   'PYMODULE'),
+  ('google.cloud.storage.acl',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\acl.py',
+   'PYMODULE'),
+  ('google.cloud.storage.hmac_key',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\hmac_key.py',
+   'PYMODULE'),
+  ('google.cloud.storage._signing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\_signing.py',
+   'PYMODULE'),
+  ('google.cloud.storage._http',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\_http.py',
+   'PYMODULE'),
+  ('google.cloud._http',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\_http\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\version.py',
+   'PYMODULE'),
+  ('google.api_core.client_info',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\client_info.py',
+   'PYMODULE'),
+  ('google.api_core.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\version.py',
+   'PYMODULE'),
+  ('google.cloud.exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\exceptions\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\client\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud._helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\_helpers\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.transport.grpc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\auth\\transport\\grpc.py',
+   'PYMODULE'),
+  ('google.api_core.page_iterator',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\page_iterator.py',
+   'PYMODULE'),
+  ('google.api_core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\__init__.py',
+   'PYMODULE'),
+  ('google.api_core.client_options',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\client_options.py',
+   'PYMODULE'),
+  ('google.cloud.storage.bucket',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\bucket.py',
+   'PYMODULE'),
+  ('google.cloud.storage.notification',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\notification.py',
+   'PYMODULE'),
+  ('google.api_core.iam',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\api_core\\iam.py',
+   'PYMODULE'),
+  ('google.cloud.storage.blob',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\blob.py',
+   'PYMODULE'),
+  ('google.cloud.storage.fileio',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\fileio.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\requests\\__init__.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests.upload',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\requests\\upload.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests.download',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\requests\\download.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests._request_helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\resumable_media\\requests\\_request_helpers.py',
+   'PYMODULE'),
+  ('google.cloud.storage.batch',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\batch.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('email.mime',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.application',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\mime\\application.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('google.cloud.storage._helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\_helpers.py',
+   'PYMODULE'),
+  ('google.cloud.storage.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\cloud\\storage\\version.py',
+   'PYMODULE'),
+  ('google.cloud', '-', 'PYMODULE'),
+  ('firebase_admin.db',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\db.py',
+   'PYMODULE'),
+  ('firebase_admin._sseclient',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\_sseclient.py',
+   'PYMODULE'),
+  ('firebase_admin._http_client',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\_http_client.py',
+   'PYMODULE'),
+  ('firebase_admin.credentials',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\credentials.py',
+   'PYMODULE'),
+  ('firebase_admin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\__init__.py',
+   'PYMODULE'),
+  ('firebase_admin.__about__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\firebase_admin\\__about__.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('face_recognition',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\face_recognition\\__init__.py',
+   'PYMODULE'),
+  ('face_recognition.api',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\face_recognition\\api.py',
+   'PYMODULE'),
+  ('face_recognition_models',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\face_recognition_models\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('dlib',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\dlib\\__init__.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('cvzone',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\__init__.py',
+   'PYMODULE'),
+  ('cvzone.PlotModule',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\PlotModule.py',
+   'PYMODULE'),
+  ('cvzone.PIDModule',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\PIDModule.py',
+   'PYMODULE'),
+  ('cvzone.FPS',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\FPS.py',
+   'PYMODULE'),
+  ('cvzone.ColorModule',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\ColorModule.py',
+   'PYMODULE'),
+  ('cvzone.Utils',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cvzone\\Utils.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE')],
+ [('python38.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg454_64.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\opencv_videoio_ffmpeg454_64.dll',
+   'BINARY'),
+  ('_hashlib.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_cffi_backend.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\charset_normalizer\\md.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('google_crc32c\\_crc32c.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_crc32c\\_crc32c.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('google\\_upb\\_message.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google\\_upb\\_message.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('grpc\\_cython\\cygrpc.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_cython\\cygrpc.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2\\cv2.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\cv2.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_webp.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imagingcms.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_dlib_pybind11.cp38-win_amd64.pyd',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_dlib_pybind11.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.17\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\python3.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'E:\\python work place\\projectNew\\build\\main\\base_library.zip',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\LICENSE',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\RECORD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\INSTALLER',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\namespace_packages.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\namespace_packages.txt',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\LICENSE.APACHE',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\top_level.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('cv2\\config-3.8.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\config-3.8.py',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\METADATA',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\WHEEL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\WHEEL',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\LICENSE',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\LICENSE',
+   'DATA'),
+  ('certifi\\py.typed',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\METADATA',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\INSTALLER',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('grpc\\_cython\\_credentials\\roots.pem',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\grpc\\_cython\\_credentials\\roots.pem',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\LICENSE.BSD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\RECORD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\RECORD',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\namespace_packages.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\namespace_packages.txt',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\WHEEL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\WHEEL',
+   'DATA'),
+  ('cv2\\config.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\config.py',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\RECORD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\RECORD',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\LICENSE',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\LICENSE',
+   'DATA'),
+  ('google_cloud_storage-2.10.0.dist-info\\INSTALLER',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_cloud_storage-2.10.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\WHEEL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\top_level.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('cv2\\load_config_py3.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\load_config_py3.py',
+   'DATA'),
+  ('cryptography-41.0.3.dist-info\\top_level.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cryptography-41.0.3.dist-info\\top_level.txt',
+   'DATA'),
+  ('google_api_core-2.11.1.dist-info\\METADATA',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\google_api_core-2.11.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\RECORD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\RECORD',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\METADATA',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\WHEEL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\METADATA',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\LICENSE',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\zip-safe',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\zip-safe',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\RECORD',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\RECORD',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\top_level.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\dependency_links.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\dependency_links.txt',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\REQUESTED',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\WHEEL',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\entry_points.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\INSTALLER',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\entry_points.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\top_level.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\REQUESTED',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools-49.2.1.dist-info\\INSTALLER',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-49.2.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('pip-20.2.1.dist-info\\LICENSE.txt',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pip-20.2.1.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\__init__.py',
+   'DATA'),
+  ('cv2\\version.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\version.py',
+   'DATA'),
+  ('cv2\\misc\\version.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\misc\\version.py',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\data\\__init__.py',
+   'DATA'),
+  ('cv2\\utils\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\utils\\__init__.py',
+   'DATA'),
+  ('cv2\\misc\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\misc\\__init__.py',
+   'DATA'),
+  ('cv2\\gapi\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'DATA'),
+  ('cv2\\mat_wrapper\\__init__.py',
+   'c:\\users\\cnn '
+   'computers\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
+   'DATA')],
+ [])
